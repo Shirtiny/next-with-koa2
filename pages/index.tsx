@@ -1,3 +1,9 @@
+/*
+ * @Author: Shirtiny
+ * @Date: 2021-11-09 22:39:38
+ * @LastEditTime: 2021-11-09 22:41:00
+ * @Description: 
+ */
 import type { NextPage } from 'next'
 import Head from 'next/head'
 import Image from 'next/image'
